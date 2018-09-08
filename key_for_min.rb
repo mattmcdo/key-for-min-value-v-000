@@ -7,3 +7,4 @@ name_hash.collect do |key, value|
   return key
 end
 end
+end
