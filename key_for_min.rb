@@ -6,3 +6,4 @@ name_hash.collect {|key, value| if value < 0
   key}
 end
 end
+end
