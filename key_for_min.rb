@@ -6,4 +6,3 @@ name_hash.collect do |key, value|
     key.first
 end
 end
-end
